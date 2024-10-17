@@ -5,7 +5,7 @@ Version:	20120106
 Release:	3
 License:	Redistributable, no modification permitted
 Group:		Games/Arcade
-URL:		http://icculus.org/alienarena/
+URL:		https://icculus.org/alienarena/
 # Subversion:  https://svn.icculus.org/alienarena/trunk/?sortby=date
 # Upstream seems too inept to provide a simple source only tarball, so we use svn.
 #   svn export svn://svn.icculus.org/alienarena/tags/7.51/ alienarena-7.51/
